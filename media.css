@@ -263,6 +263,12 @@
         color: rgb(4, 248, 4);
 
     }
+   .ved{
+        color: orange;
+        font-size: 3vmax;
+    }
+
+
 
     @-webkit-keyframes indentanimation {
         0% {
