@@ -217,6 +217,10 @@ body {
     color: rgb(4, 248, 4);
 
 }
+ .ved{
+        color: orange;
+       
+    }
 
 @-webkit-keyframes indentanimation {
     0% {
